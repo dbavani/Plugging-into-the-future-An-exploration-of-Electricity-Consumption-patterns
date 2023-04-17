@@ -5,7 +5,7 @@ Dashboard 1 Public Link : https://file:///C:/Users/USER/Desktop/Electricity%20co
 
 Dashboard 2 Public Link : https://file:///C:/Users/USER/Desktop/Electricity%20consumption/dashboard2.html
 
-Dashboard 3 Public Link : file:///C:/Users/USER/Desktop/Electricity%20consumption/dashboard%203.html
+Dashboard 3 Public Link : https://file:///C:/Users/USER/Desktop/Electricity%20consumption/dashboard%203.html
 
 
 
